@@ -166,4 +166,4 @@ Une fois déployé avec succès :
 
 **TimeLocal v2.0** - *Connectons les communautés locales !* 🏘️⏰
 
-*Créé avec ❤️ pour faciliter le déploiement sur Hostinger Business*# testnew
+*Créé avec ❤️ pour faciliter le déploiement sur Hostinger Business*
